@@ -1,0 +1,6 @@
+{
+  "name": "Millionaire Matematika Kelas 6 - Bilangan Desimal",
+  "description": "Game kuis interaktif Who Wants to Be a Millionaire untuk pembelajaran Matematika Kelas 6 topik Bilangan Desimal dengan mode beregu, 100 soal, tangga hadiah, dan sistem bintang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
